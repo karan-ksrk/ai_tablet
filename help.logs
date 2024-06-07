@@ -1,0 +1,6 @@
+i have a folder called tags containing multiple subfolder like this tag_4X4_50
+tag_4X4_100
+tag_4X4_250
+and each folder contain images of size 300x300, i want to generate pdf of such images in grid format and top header of each page contain folder name like tag_4X4_100
+ChatGPT
+ChatGPT
